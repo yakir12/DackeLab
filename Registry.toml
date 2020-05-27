@@ -6,3 +6,4 @@ description = "This is the registry of the Dacke lab"
 [packages]
 4b12b552-3a4e-596f-96c3-8d21d15d5d04 = { name = "DungAnalyse", path = "D/DungAnalyse" }
 bd6f3a87-2f53-57d0-9c4e-5625ef189a5e = { name = "DungBase", path = "D/DungBase" }
+ee64474f-0879-4582-97c7-e60ff50c5730 = { name = "Format2DB", path = "F/Format2DB" }
