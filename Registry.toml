@@ -4,3 +4,4 @@ repo = "https://github.com/yakir12/DackeLab"
 description = "This is the registry of the Dacke lab"
 
 [packages]
+bd6f3a87-2f53-57d0-9c4e-5625ef189a5e = { name = "DungBase", path = "D/DungBase" }
