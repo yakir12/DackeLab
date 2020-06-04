@@ -23,3 +23,8 @@ Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
 Rotations = "6038ab10-8711-5258-84ad-4b1120ba62dc"
 Serialization = "9e88b42a-f829-5b0c-bbe9-9e923198166b"
 StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+
+["0.2-0"]
+DungAnalyse = "4b12b552-3a4e-596f-96c3-8d21d15d5d04"
+Format2DB = "ee64474f-0879-4582-97c7-e60ff50c5730"
+Glob = "c27321d9-0574-5035-807b-f59d2c89b15c"
