@@ -47,5 +47,5 @@ ProgressMeter = "1.2.0-1"
 ["0.4.1-0"]
 ProgressMeter = "1.3.0-1"
 
-["0.4.3-0"]
+["0.4.3"]
 DataFrames = "0"
